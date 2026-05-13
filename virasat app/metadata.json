@@ -1,0 +1,14 @@
+{
+  "name": "Remix: Virasat",
+  "description": "A premium cinematic heritage-tech app for exploring Karnataka\u0027s architectural wonders with AI-powered insights, AR reconstructions, and digital collectibles.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-powered heritage guide",
+    "AR monument reconstruction",
+    "Digital passport \u0026 collection",
+    "Interactive heritage exploration"
+  ]
+}
