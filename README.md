@@ -1,4 +1,4 @@
-# VIRASAT – Heritage Tourism Guide App
+# VIRASAT – Namma Guide (Travel & Tourism)
 
 ## 📌 Problem Statement
 Many tourists and local users struggle to discover cultural heritage places, historical information, and navigation support in one platform. VIRASAT solves this problem using AI-powered guidance and interactive maps.
