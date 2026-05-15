@@ -158,9 +158,9 @@ VIRASAT – Namma Guide solves this problem by combining AI assistance, interact
 
 # 👨‍💻 Developed By
 
-ROYS SUDHAN B
-1MJ23AI405
-roysudhan555@gmail.com
+NAME - ROYS SUDHAN B
+USN - 1MJ23AI405
+gmail - roysudhan555@gmail.com
 
 ---
 
