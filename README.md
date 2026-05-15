@@ -101,21 +101,30 @@ npm run build
 
 # 📸 Application Screenshots
 
+## Landing Page
+
+<img width="394" height="692" alt="Screenshot 2026-05-15 113123" src="https://github.com/user-attachments/assets/6b360bc1-9e91-4df3-92a7-013b97dd697b" />
+
+
 ## Home Page
 
-(Add screenshot image here)
+<img width="350" height="661" alt="Screenshot 2026-05-15 113223" src="https://github.com/user-attachments/assets/e38f1a27-ce5e-4dab-9f70-66df9dadd4ea" />
+
 
 ## AI Guide Section
 
-(Add screenshot image here)
+<img width="343" height="646" alt="Screenshot 2026-05-15 113337" src="https://github.com/user-attachments/assets/5d65f1a8-5ec1-43c8-9850-7e9083ccb20c" />
+
 
 ## Maps Navigation
 
-(Add screenshot image here)
+<img width="341" height="640" alt="Screenshot 2026-05-15 113302" src="https://github.com/user-attachments/assets/2fe66b63-5b58-440e-8822-14caed2a4b38" />
+
 
 ## User Profile Page
 
-(Add screenshot image here)
+<img width="364" height="661" alt="Screenshot 2026-05-15 113412" src="https://github.com/user-attachments/assets/c81bec49-7f7d-4f9d-9a2d-246bdd84cf81" />
+
 
 ---
 
