@@ -103,7 +103,7 @@ npm run build
 
 ## Landing Page
 
-<img width="492" height="863" alt="Screenshot 2026-05-15 123755" src="https://github.com/user-attachments/assets/6c4f60cc-78a2-4a7c-a2df-7fabfb72adc1" />
+<img width="394" height="692" alt="Screenshot 2026-05-15 113123" src="https://github.com/user-attachments/assets/a417db0d-13eb-4faf-a23f-7cffd94f0648" />
 
 
 ## Home Page
